@@ -742,3 +742,5 @@ Yes, our standalone application is working fine. We can easily deploy it in a Do
 it is.
 
 [Go back to TOC](#toc)
+
+** developed by Mattieu Blais**
